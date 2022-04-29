@@ -1,0 +1,17 @@
+C:\Users\albta\Desktop\LISP Validator\bin\Debug\net6.0-windows\LISP Validator.exe
+C:\Users\albta\Desktop\LISP Validator\bin\Debug\net6.0-windows\LISP Validator.deps.json
+C:\Users\albta\Desktop\LISP Validator\bin\Debug\net6.0-windows\LISP Validator.runtimeconfig.json
+C:\Users\albta\Desktop\LISP Validator\bin\Debug\net6.0-windows\LISP Validator.dll
+C:\Users\albta\Desktop\LISP Validator\bin\Debug\net6.0-windows\LISP Validator.pdb
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.csproj.AssemblyReference.cache
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP_Validator.Form1.resources
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.csproj.GenerateResource.cache
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.AssemblyInfoInputs.cache
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.AssemblyInfo.cs
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.csproj.CoreCompileInputs.cache
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.dll
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\refint\LISP Validator.dll
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.pdb
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\LISP Validator.genruntimeconfig.cache
+C:\Users\albta\Desktop\LISP Validator\obj\Debug\net6.0-windows\ref\LISP Validator.dll
